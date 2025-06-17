@@ -1,5 +1,7 @@
 # Spotify-Analysis-Dashboard
 My Excel-based business analysis dashboards and data insights
+
+
 Brief Objectives of the Spotify Listener Insights Dashboard
 - Compare Free vs. Premium listener behavior to identify engagement trends.
 - Analyze top artists and genre preferences across different user segments.
